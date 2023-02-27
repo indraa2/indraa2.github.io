@@ -18,4 +18,5 @@ Ordered list:
 
 
 Adding a figure.
+
 ![this is alt-text for this figure] (http://uiuc-ischool-dataviz.github.io/spring2019online/week04/data/littleCorgiInHat.png)
